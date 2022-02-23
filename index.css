@@ -1,0 +1,129 @@
+* {
+    box-sizing:bo
+    
+}
+
+
+.header-image {
+    border-radius: 50%;
+    height: 20vh;
+    margin-left: 0%;
+    display: inline-block;
+
+  }
+
+
+  h1 {
+      text-align: left;
+      font-family: 'Chelsea Market', cursive;
+      margin-left: 0%;
+      
+  }
+
+  p {
+      text-align: center;
+      font-family: "Roboto Mono", monospace;
+  }
+  .Navigation a {
+    border-radius: 10px;
+    color: white;
+    display: inline-block;
+    height: 2em;
+    width: 6em;
+    text-align: center;
+    margin: 5% 9%;
+    padding: 1%;
+    text-decoration: none;
+  }
+.Navigation a:first-child {
+    background-color: #FF764E;    
+}
+.Navigation a:nth-child(2) {
+    background-color: #5ED3EB;
+    
+  
+
+}
+
+.Navigation a:last-child {
+    background-color: #FFCD69;
+  
+}
+
+.text {
+    text-align: right;
+    display: inline-block;
+    margin-left: 15%;
+
+
+}
+
+.Paragraph {
+    background-color:#DDB9A3;
+    color: white;
+    font-size: small;
+    padding: 1vh;
+
+}
+.camp p {
+    text-align: center;
+    margin-top: 0%;
+
+}
+
+.camp .fire {
+    border-image-width: 10%;
+    margin-left: 40%;
+    margin-bottom: 0%;
+    width: 200px;
+}
+.camp .Rv {
+    border-image-width: 10%;
+    margin-left: 40%;
+    margin-bottom: 5%;
+    width: 200px;
+
+}
+
+ .mountin {
+    width: 800px;
+    height: 150px;
+    background-image: url(".//assets/footer_img.jpg");
+    background-size: cover;
+    background-position: center 15%;
+    
+
+}
+.footer {
+    background-color: #F9E7DC;
+
+
+}
+
+.footer a {
+    border-radius: 10px;
+    color: white;
+    display: inline-block;
+    height: 2em;
+    width: 6em;
+    text-align: center;
+    margin: 5% 9%;
+    padding: 1%;
+    text-decoration: none;
+  }
+.footer a:first-child {
+    background-color: #FF764E;    
+}
+.footer a:nth-child(2) {
+    background-color: #5ED3EB;
+    
+  
+
+}
+
+.footer a:last-child {
+    background-color: #FFCD69;
+  
+}
+
+
